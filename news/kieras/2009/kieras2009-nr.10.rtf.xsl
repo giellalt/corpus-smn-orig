@@ -15,17 +15,17 @@
 <xsl:variable name="author1_born" select="''"/>
 <xsl:variable name="author2_fn" select="''"/>
 <xsl:variable name="author2_ln" select="''"/>
-<xsl:variable name="author2_gender" select="''"/>
+<xsl:variable name="author2_gender" select="'unknown'"/>
 <xsl:variable name="author2_nat" select="''"/>
 <xsl:variable name="author2_born" select="''"/>
 <xsl:variable name="author3_fn" select="''"/>
 <xsl:variable name="author3_ln" select="''"/>
-<xsl:variable name="author3_gender" select="''"/>
+<xsl:variable name="author3_gender" select="'unknown'"/>
 <xsl:variable name="author3_nat" select="''"/>
 <xsl:variable name="author3_born" select="''"/>
 <xsl:variable name="author4_fn" select="''"/>
 <xsl:variable name="author4_ln" select="''"/>
-<xsl:variable name="author4_gender" select="''"/>
+<xsl:variable name="author4_gender" select="'unknown'"/>
 <xsl:variable name="author4_nat" select="''"/>
 <xsl:variable name="author4_born" select="''"/>
 <xsl:variable name="publisher" select="''"/>
@@ -51,7 +51,7 @@
 <!-- Those docs typically contain lots of orthographic errors and need special treatment -->
 <xsl:variable name="ocr" select="''"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
-<xsl:variable name="template_version" select="'$Revision: 104790 $'"/>
+<xsl:variable name="template_version" select="'$Revision$'"/>
 <xsl:variable name="current_version" select="'Revision'"/>
 <!-- Free text field for notes -->
 <xsl:variable name="note" select="''"/>
@@ -62,15 +62,15 @@
 <!-- In the case of a multilingual document, we may want to check for
      other languages. Set the variable monolingual to '1' to turn off
      language recognition (treating everything as mainlang) -->
-<xsl:variable name="monolingual" select="'1'"/>
+<xsl:variable name="monolingual" select="''"/>
 
-<!-- If monolingual is not set, the language is multilingual.
+<!-- If monolingual is not set, the document is multilingual.
      Uncomment the languages you want to check for (or add new lines
      with the right ISO-639-3 language codes).
 
      If *no* languages are uncommented (and monolingual is not 1),
      then the document is checked for all supported languages.
--->
+     -->
 <xsl:variable name="mlangs">
   <!-- <language xml:lang="dan"/> -->
   <!-- <language xml:lang="eng"/> -->
@@ -92,9 +92,6 @@
   <!-- <language xml:lang="swe"/> -->
 </xsl:variable>
 
-<!-- Add the locations of the parallel files to the variables-->
-
-
 <!-- If the document has parallel texts, uncomment the right languages
      (or add new lines with the right ISO-639-3 language codes) and
      add the filename of the parallel files to the 'location'
@@ -105,25 +102,26 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-  <!-- <language xml:lang="dan"/> -->
-  <!-- <language xml:lang="eng"/> -->
-  <!-- <language xml:lang="fin"/> -->
-  <!-- <language xml:lang="fit"/> -->
-  <!-- <language xml:lang="fkv"/> -->
-  <!-- <language xml:lang="ger"/> -->
-  <!-- <language xml:lang="isl"/> -->
-  <!-- <language xml:lang="kal"/> -->
-  <!-- <language xml:lang="kpv"/> -->
-  <!-- <language xml:lang="nno"/> -->
-  <!-- <language xml:lang="nob"/> -->
-  <!-- <language xml:lang="rus"/> -->
-  <!-- <language xml:lang="sma"/> -->
-  <!-- <language xml:lang="sme"/> -->
-  <!-- <language xml:lang="smj"/> -->
-  <!-- <language xml:lang="smn"/> -->
-  <!-- <language xml:lang="sms"/> -->
-  <!-- <language xml:lang="swe"/> -->
+  <!-- <parallel_text xml:lang="dan" location=""/> -->
+  <!-- <parallel_text xml:lang="eng" location=""/> -->
+  <!-- <parallel_text xml:lang="fin" location=""/> -->
+  <!-- <parallel_text xml:lang="fit" location=""/> -->
+  <!-- <parallel_text xml:lang="fkv" location=""/> -->
+  <!-- <parallel_text xml:lang="ger" location=""/> -->
+  <!-- <parallel_text xml:lang="isl" location=""/> -->
+  <!-- <parallel_text xml:lang="kal" location=""/> -->
+  <!-- <parallel_text xml:lang="kpv" location=""/> -->
+  <!-- <parallel_text xml:lang="nno" location=""/> -->
+  <!-- <parallel_text xml:lang="nob" location=""/> -->
+  <!-- <parallel_text xml:lang="rus" location=""/> -->
+  <!-- <parallel_text xml:lang="sma" location=""/> -->
+  <!-- <parallel_text xml:lang="sme" location=""/> -->
+  <!-- <parallel_text xml:lang="smj" location=""/> -->
+  <!-- <parallel_text xml:lang="smn" location=""/> -->
+  <!-- <parallel_text xml:lang="sms" location=""/> -->
+  <!-- <parallel_text xml:lang="swe" location=""/> -->
 </xsl:variable>
+
 
 <!-- For page oriented documents, mark which pages should be ignored -->
 <xsl:variable name="skip_pages" select="''"/>
@@ -142,9 +140,7 @@ These are defaults, that are settable documentwise -->
 <!--
 <xsl:template match="//body/p[5]">
 	<xsl:element name="p">
-	<xsl:attribute name="xml:lang">
-		<xsl:value-of select="$smelang"/>
-	</xsl:attribute>
+	<xsl:attribute name="xml:lang">sme</xsl:attribute>
 	<xsl:apply-templates/>
 </xsl:element>
  </xsl:template>
