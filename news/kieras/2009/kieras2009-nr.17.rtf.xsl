@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.0">
 
 <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
@@ -127,10 +127,10 @@
 <xsl:variable name="skip_pages" select="''"/>
 <!-- Text outside these margins will be ignored.
 These are defaults, that are settable documentwise -->
-<xsl:variable name="right_margin" select="'7%'"/>
-<xsl:variable name="left_margin" select="'7%'"/>
-<xsl:variable name="top_margin" select="'7%'"/>
-<xsl:variable name="bottom_margin" select="'7%'"/>
+<xsl:variable name="right_margin" select="''"/>
+<xsl:variable name="left_margin" select="''"/>
+<xsl:variable name="top_margin" select="''"/>
+<xsl:variable name="bottom_margin" select="''"/>
 
 
 <!-- Add all paragraphs that should have xml:lang=X           -->
