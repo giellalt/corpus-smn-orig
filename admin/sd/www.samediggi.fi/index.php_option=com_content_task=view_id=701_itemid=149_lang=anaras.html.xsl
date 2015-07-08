@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
 
 <xsl:import href="file:///home/boerre/langtech/trunk/tools/CorpusTools/corpustools/xslt/common.xsl"/>
@@ -92,7 +92,7 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="index.php_option=com_content_task=view_id=701_itemid=149_lang=finnish" xml:lang="fin"/>
+	<parallel_text location="index.php_option=com_content_task=view_id=701_itemid=149_lang=finnish.html" xml:lang="fin"/>
 	<parallel_text location="index.php_option=com_content_task=view_id=701_itemid=149_lang=davvi.html" xml:lang="sme"/>
 	<parallel_text location="index.php_option=com_content_task=view_id=701_itemid=149_lang=nuortta.html" xml:lang="sms"/>
 </xsl:variable>
