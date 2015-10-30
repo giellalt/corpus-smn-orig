@@ -92,7 +92,7 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="index.php_lang=finnish_lang=finnish.html" xml:lang="fin"/>
+	<parallel_text location="" xml:lang="fin"/>
 </xsl:variable>
 
 <!-- For page oriented documents, mark which pages should be ignored -->
