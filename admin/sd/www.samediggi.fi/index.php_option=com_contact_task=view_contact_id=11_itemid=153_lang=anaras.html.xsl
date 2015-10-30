@@ -95,7 +95,7 @@
 	<parallel_text location="index.php_option=com_contact_task=view_contact_id=11_itemid=153_lang=english.html" xml:lang="eng"/>
 	<parallel_text location="index.php_option=com_contact_task=view_contact_id=11_itemid=153_lang=finnish.html" xml:lang="fin"/>
 	<parallel_text location="index.php_option=com_contact_task=view_contact_id=11_itemid=153_lang=davvi.html" xml:lang="sme"/>
-	<parallel_text location="index.php_option=com_contact_task=view_contact_id=11_itemid=153_lang=nuortta.html" xml:lang="sms"/>
+	<parallel_text location="" xml:lang="sms"/>
 </xsl:variable>
 
 <!-- For page oriented documents, mark which pages should be ignored -->
