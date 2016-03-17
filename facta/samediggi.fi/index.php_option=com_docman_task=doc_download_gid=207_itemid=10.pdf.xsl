@@ -120,8 +120,8 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text location="index.php_option=com_docman_task=doc_download_gid=201_itemid=10.pdf" xml:lang="sme"/>
-<parallel_text location="index.php_option=com_docman_task=doc_download_gid=187_itemid=10.pdf" xml:lang="fin"/>
+    <parallel_text location="samediggi_rahpan.pdf" xml:lang="sme"/>
+<parallel_text location="saamelaiskarajien_avajaiset.pdf" xml:lang="fin"/>
 </xsl:variable>
 
 
