@@ -129,7 +129,7 @@
         <!-- <parallel_text xml:lang="swe" location=""/> -->
     <parallel_text location="mo_oa_un_samegiela_oahpahusa.pdf" xml:lang="sme"/>
 <parallel_text location="ma_htt_vua_am_saa_m_iol_matttoozz.pdf" xml:lang="sms"/>
-<parallel_text location="ma_htt_vua_am_saa_m_iol_matttoozz.pdf" xml:lang="fin"/>
+<parallel_text location="miten_saan_saamen_kielen_opetusta.pdf" xml:lang="fin"/>
 </xsl:variable>
 
 
