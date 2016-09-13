@@ -127,7 +127,9 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    </xsl:variable>
+    <parallel_text location="kirkkopaivien_taidenayttely_0306091.pdf" xml:lang="fin"/>
+<parallel_text location="girkobeivviid_daiddacajahus_0306091.pdf" xml:lang="sme"/>
+</xsl:variable>
 
 
     <!--
