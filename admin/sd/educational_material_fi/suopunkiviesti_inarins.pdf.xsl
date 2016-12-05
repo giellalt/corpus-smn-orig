@@ -56,7 +56,7 @@
         * standard:     a usual doc, meant to be used as part of the standard corpus
         * unsupported:  document that cannot be converted by our conversion tools
     -->
-    <xsl:variable name="conversion_status" select="'standard'"/>
+    <xsl:variable name="conversion_status" select="'image'"/>
     <xsl:variable name="metadata" select="'uncomplete'"/>
     <xsl:variable name="template_version" select="'$Revision: 134043 $'"/>
     <xsl:variable name="current_version" select="'Revision'"/>
