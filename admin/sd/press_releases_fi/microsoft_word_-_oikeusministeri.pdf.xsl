@@ -128,8 +128,8 @@
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
     <parallel_text location="saamenkielirahatilmoituskoltansaame2009.pdf" xml:lang="sms"/>
-<parallel_text location="_microsoft_word_-_oikeusministeri.pdf" xml:lang="sme"/>
-<parallel_text location="_microsoft_word_-_oikeusministeri.pdf" xml:lang="fin"/>
+<parallel_text location="microsoft_word_-_oikeusministeri.pdf" xml:lang="sme"/>
+<parallel_text location="microsoft_word_-_oikeusministeri.pdf" xml:lang="fin"/>
 </xsl:variable>
 
 
