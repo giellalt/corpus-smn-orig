@@ -1,6 +1,6 @@
 ﻿Jävri
 
-Jävri lii meerâst erinis čäciääldis. Jäävri čääci piso enamustáá sajestis, ijge virded {nuvt}£{nuuvt} ko juuvâin. Stuárráámus uási jaavrijn láá saivâčääsi. {Sálttáá}£{Sálttáás} {javrijd}£{jäävrih} kočoduvvoo{kočoduvvojeh} {Sälttijävrin}${sälttijävrin}. Táválávt {Jävri]${jävri} finnee čääsi {juuhâin}${juuvâin} teikkâ käldein. {Sierânâstábáhtusâid}£{Sierânâstábáhtusah} láá Jieŋâ vuálááš {jáávrih}${jäävrih}, ovdâmerkkân Vostok.
+Jävri lii meerâst erinis čäciääldis. Jäävri čääci piso enamustáá sajestis, ijge virded {nuvt}£{nuuvt} ko juuvâin. Stuárráámus uási jaavrijn láá saivâčääsi. {Sálttáá}£{Sálttáás} {javrijd}£{jäävrih} kočoduvvoo{kočoduvvojeh} {Sälttijävrin}${sälttijävrin}. Táválávt {Jävri}${jävri} finnee čääsi {juuhâin}${juuvâin} teikkâ käldein. {Sierânâstábáhtusâid}£{Sierânâstábáhtusah} láá Jieŋâ vuálááš {jáávrih}${jäävrih}, ovdâmerkkân Vostok.
 Juuvâijuvâttemes javrij čääci vuálgá meddâl tuše lievlistem tááhust. Tondiet toh láá táválávt uáli sálttááh. Tagarijd láá ovdâmerkkân Jáámmámmeerâ, Stuorrâ sälttijävri sehe maailm stuárráámus jävri Kaspiameerâ.
 
 
@@ -56,6 +56,3 @@ Suomâ {stuárráámusah}${stuárráámuuh} jäävrih
     • Kallavesi 473 km2
 Iäláneh
 Javrijn {iälá}£{eelih} {maaŋgah ereslágáneh}¥{maaŋgâlágáneh} iäláneh, ovdâmerkkân kyeleh, čäcilodeh, tiäbuh sehe rapuelleeh. Suomâst táválumoseh kyeleh láá vuásku, šapšâ já suávvil. Maadâ-Suomâst meid siergi já kuha já {váldušálâvt}${válduášálávt} Tave-Suomâst kuávžur sehe rávdu. Táválumoseh čäcilodeh láá kaijuuh sehe viettuuh.
-
-
-
