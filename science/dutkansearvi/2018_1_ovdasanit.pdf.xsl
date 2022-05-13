@@ -38,7 +38,7 @@
     <xsl:variable name="author2_ln" select="'Seurujärvi-Kari'"/>
     <xsl:variable name="author2_gender" select="'f'"/>
     <xsl:variable name="author2_nat" select="'FI'"/>
-    <xsl:variable name="author2_born" select="''"/>
+    <xsl:variable name="author2_born" select="'1947'"/>
 
     <!--
         Information of the third author: first name, last name,
