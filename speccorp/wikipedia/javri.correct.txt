@@ -13,7 +13,7 @@ Karstijävri Sloveniast.
 Vulkaanlâš jävri
 
 Porttipahta tahojävri Suáđigilist.
-Jäävrih láá juohhum eres juávhoid ton mield, ete maht toh láá šoddâm. Kyehti {vuáđutijppâ}£{vuáđutiijpâ} lává källeeáldáh sehe sälbiáldáh.
+Jäävrih láá juohhum eres juávhoid ton mield, ete maht toh láá šoddâm. Kyehti {vuáđutijppâ}£{vuáđutiijpâ} {lává}£{verb,du3-pl3,congr|láá} källeeáldáh sehe sälbiáldáh.
     • Källeeáldáh láá {kováduvâid}£{kováduvah} {vuáđukälleest}${vuáđukällest}. Toh láá táválávt kieŋâleh sehe kuhesahasiih.
         ◦ Tektonilâš jäävrih láá šoddâm ráptutektoniik ađai vuáđukällee sirdâšum {tááhust}?{keežild}.
         ◦ Karstijäävrih láá kalkkâkiäđgán purrum jäävrih karstienâmijn.
@@ -28,7 +28,7 @@ Jäävrih láá juohhum eres juávhoid ton mield, ete maht toh láá šoddâm. K
 Jäävrih maailmist
 
 Kaspiameerâ lii maailm stuárráámus jävri.
-Eennâmpállu vijđodâsâst 1,8 % ađai 2,7 miljovn neljihâškilometterid {lii}£{láá} jäävrih. Ohtsis {toid}£{toh} {lii}£{láá} suullân love miljovn, moin 254 láá paijeel 500 km2. Maailm stuárráámus jävri lii Kaspiameerâ, mon vijđodâh lii 374 000 km2. Kieŋâlumos lii Baikaljävri, mon kieŋŋâlvuotâ lii 1 642 metterid.
+Eennâmpállu vijđodâsâst 1,8 % ađai 2,7 miljovn neljihâškilometterid {lii}£{láá} jäävrih. Ohtsis {toid}£{toh} {lii}£{verb,sg3-pl3,congrláá} suullân love miljovn, moin 254 láá paijeel 500 km2. Maailm stuárráámus jävri lii Kaspiameerâ, mon vijđodâh lii 374 000 km2. Kieŋâlumos lii Baikaljävri, mon kieŋŋâlvuotâ lii 1 642 metterid.
 Maailm {stuárrásumoseh}${stuárráámuuh} jäävrih
     • Kaspiameerâ 371 000 km²
     • Huronjävri-Michiganjävri 117 400 km²
