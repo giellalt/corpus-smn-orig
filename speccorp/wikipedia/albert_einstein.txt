@@ -10,7 +10,7 @@ Persovntiäđuh
 Ulm, Saksa kiäisárkodde
 
 Jáámmám
-18. čuáŋuimáánu 1955
+18. {čuáŋuimáánu}${cuáŋuimáánu} 1955
 Princeton, New Jersey, Ovtâstum staatah
 
 Aalmugjeessânvuotâ
@@ -27,5 +27,5 @@ Eidgenössische Technische Hochschule Zürich
 
 
 
-Albert Einstein (14. njuhčâmáánu 1879 Ulm, Saksa kiäisárkodde − 18. čuáŋuimáánu 1955 Princeton, New Jersey, Ovtâstum staatah) lâi saksajuudâlâš teoreetlâš fysijkkár. Suu tobdosumos pargo lâi tiädduvyeimi kovvejeijee koskâvuođâlâšvuotâteoria. Sun vaiguttij meid ennuv kvanttimekaniik sehe kosmologia ovdánmân, já {suu}£{sun} {annee}£{annoo} {oovtân}£{ohtân} 1900-lovo {merhâšitteemusâin}${merhâšitteemuin} {fysijkkáráin}£{fysikkarijn}. Einstein {finnejii}£{finnij} Nobel fyysiikplahâšume čuovâšleđgâlâš almoon čielgiimist já aatoom eksistens tuođâstmist Brown {joto}£{jođo} vievâst.
+Albert Einstein (14. njuhčâmáánu 1879 Ulm, Saksa kiäisárkodde − 18. {čuáŋuimáánu}${cuáŋuimáánu} 1955 Princeton, New Jersey, Ovtâstum staatah) lâi saksajuudâlâš teoreetlâš fysijkkár. Suu tobdosumos pargo lâi tiädduvyeimi kovvejeijee koskâvuođâlâšvuotâteoria. Sun vaiguttij meid ennuv kvanttimekaniik sehe kosmologia ovdánmân, já {suu}£{sun} {annee}£{annoo} {oovtân}£{ohtân} 1900-lovo {merhâšitteemusâin}${merhâšitteemuin} {fysijkkáráin}£{fysikkarijn}. Einstein {finnejii}£{finnij} Nobel {fyysiikplahâšume}${fyysiikpalhâšume} čuovâšleđgâlâš almoon čielgiimist já aatoom eksistens {tuođâstmist}${tuođâštmist} Brown {joto}£{jođo} vievâst.
 
