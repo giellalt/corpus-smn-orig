@@ -13,13 +13,13 @@
     -->
     <xsl:variable name="filename" select="'2018_2_valtonen.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Anarâš- já nuorttâlâškielâ partikkal še'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.
     -->
-    <xsl:variable name="author1_fn" select="''"/>
-    <xsl:variable name="author1_ln" select="''"/>
+    <xsl:variable name="author1_fn" select="'Taarna'"/>
+    <xsl:variable name="author1_ln" select="'Valtonen'"/>
     <!-- m, f or unknown -->
     <xsl:variable name="author1_gender" select="'unknown'"/>
     <!--
@@ -34,8 +34,8 @@
         Information of the second author: first name, last name,
         date or year of birth, nationality.
     -->
-    <xsl:variable name="author2_fn" select="''"/>
-    <xsl:variable name="author2_ln" select="''"/>
+    <xsl:variable name="author2_fn" select="'Merja'"/>
+    <xsl:variable name="author2_ln" select="'Fofonoff'"/>
     <xsl:variable name="author2_gender" select="'unknown'"/>
     <xsl:variable name="author2_nat" select="''"/>
     <xsl:variable name="author2_born" select="''"/>
@@ -44,8 +44,8 @@
         Information of the third author: first name, last name,
         date or year of birth, nationality.
     -->
-    <xsl:variable name="author3_fn" select="''"/>
-    <xsl:variable name="author3_ln" select="''"/>
+    <xsl:variable name="author3_fn" select="'Markus'"/>
+    <xsl:variable name="author3_ln" select="'Juutinen'"/>
     <xsl:variable name="author3_gender" select="'unknown'"/>
     <xsl:variable name="author3_nat" select="''"/>
     <xsl:variable name="author3_born" select="''"/>
@@ -74,7 +74,7 @@
     <!-- The values are either: published or unpublished -->
     <xsl:variable name="publChannel" select="''"/>
     <!-- Publication year -->
-    <xsl:variable name="year" select="''"/>
+    <xsl:variable name="year" select="'2018'"/>
     <xsl:variable name="ISBN" select="''"/>
     <xsl:variable name="ISSN" select="''"/>
     <xsl:variable name="place" select="''"/>
