@@ -58,3 +58,22 @@ Jeggijuuŋáin tálhudii, jis lijjii vielgis {tiälhuid}£{noun,placc–plnom|ti
 Ton muorâ keejist lijjii vittâ {rieggeeh}£{noun,plnom-sgacc|rieggee} já tekstâ: Olympia.
 
 
+{Anarâškielâlijd}£{adj,placc-plnom|Anarâškielâliih} {nomâttâsâid}£{noun,placc-plnom|nomâttâsah} {kiävttoo}£{verb,sg3-pl3|kiävttojeh} uáli uccáá.
+Jyehi kulttuurist {adeluvvoo£}£{verb,sg3-pl3|adeluvvojeh} {noomâid}£{noun,placc-plnom|noomah} {elleešlaajâid}£{ noun,placc-plill|elleešlaajáid}.
+Tágáreh sánáduv siskáldâs {merhâšumekoskâvuođâid}£{noun,placc-plnom|merhâšumekoskâvuođah} {kovvejuvvoo}£{verb,sg3-pl3|kovvejuvvojeh} maaŋgânáál. 
+Muu amnâstuvâst {kavnui}£{verb,sg3-pl3|kávnojii} meid {kuulmâsánásijd}£{adj,placc-plnom|kuulmâsánásiih} {kuálussaanijd}£{noun,placc-plnom|kuálussäänih}.
+Vuosmuu tiijpâ {kuálussaanijd}£{ noun,placc-plnom|kuálussäänih} {kočoduvvoo}£{ verb,sg3-pl3|kočoduvvojeh} kopulatiivin. 
+{Uánádâsâid}£{noun,placc-plnom|Uánádâsah}, {numerijd}£{noun,placc-plnom|numereh}, {jiešnoomâid}£{noun,placc-plnom|jiešnoomah} já ovtâskâs {puustavijd}£{noun,placc-plnom|puustaveh} kuálussääni uássin iäruttuvvojeh čälimist kuálusmerháin.
+Puáris kielâin {kávnoo}£{verb,sg3-pl3|kávnojeh} {kirjálijd}£{adj,placc-plnom|kirjáliih} {pyevtittâsâid}£{ noun,placc-plnom|pyevtittâsah}.
+Toorjân {lii}£{verb,sg3-pl3|láá} rahtum {substituutionjuolgâdusâid}£{ noun,placc-plnom|substituutionjuolgâdusah}. 
+Nomâttâsân {kavnui}£{ verb,sg3-pl3|kávnojii} meid {motomijd}£{ pron,placc-plnom|motomeh} {metaforaid}£{ noun,placc-plnom|metaforah}.
+Juŋŋâlostâteejâin {tipšui}£{verb,sg3-pl3|tipšojii} {kužžâpocceevááduid}£{ noun,placc-plnom|kužžâpocceevááduh} já {kudduumijd}£{ noun,placc-plnom|kudduumeh}.
+{Áálduid}£{ noun,placc-plnom|Áálduh} sirdojii kuohtii peeivist. 
+Vuonjâlave maŋa ij innig iäruttuu niŋálâs {poccuid}£{ noun,placc-plnom|poccuuh} ave tááhust. 
+Válburpeeivi maŋa kyeddimääigi {áálduid}£{ noun,placc-plnom|áálduh} oppeet {čonnui}£{ verb,sg3-pl3|čannojii}.
+Tot lii pyeri, {ijge}£{ verb,sg3-pl3|iäge} {vástádâsâid}£{ noun,placc-plnom|vástádâsah} lah čonnum {vástádâsmolsâiävtuid}£{ noun,placc-plill|vástádâsmolsâiävttoid}. 
+{Maaŋgâid}£{Num,placc-plnom|Maaŋgah} {vaaivijd}£{noun,placc-plnom|vääivih} {tipšui}£{verb,sg3-pl3|tipšojii} vuoššum suáhilostâiguim.
+Säänist {kávnoo}£{ verb,sg3-pl3|kávnojeh} {tiäđuid}£{ noun,placc-plnom|tiäđuh} etymologisijn käldein.
+
+
+Aanaarjäävri kuálástemtiäđuid {ij}£{verb,sg3-pl3|iä} kavnuu kirjálâšvuođâst. 
