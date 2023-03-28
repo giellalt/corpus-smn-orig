@@ -1,6 +1,6 @@
 Ton juávkun kuleh {puohlágánijd}£{adj,placc-sgnom|puohlágán} {iälánijd}£{noun,placc-plnom|iäláneh}.
 Ellein {lii}£{verb,sg3-pl3|láá} noonâ teehih.
-Tääbbin lii}£{verb,sg3-pl3|láá} ennuv {ulmuid}£{noun,placc-plnom|ulmuuh}.
+Tääbbin {lii}£{verb,sg3-pl3|láá} ennuv {ulmuid}£{noun,placc-plnom|ulmuuh}.
 Mut maid mij pyehtip faallâđ toid, lii pyeri eellim, {mielâsijd}£{adj,placc-plnom|mielâsiih} {puuđâldmijd}£{noun,placc-plnom|puuđâldmeh}, {skipárijd}£{noun,placc-plnom|skipáreh} já ruottâmtile.
 Taan uásist {ij}£{verb,sg3-pl3|iä} lah pennui noomah.
 Mun halijdâm, ete maailmist {ij}£{verb,sg3-pl3|iä} liččii innig kuássin suáđih.
