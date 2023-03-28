@@ -72,8 +72,8 @@ Aanaarjäävri kuálástemtiäđuid {ij}£{verb,sg3-pl3|iä} kavnuu kirjálâšv
 {Kuosijd}£{noun,placc-plnom|Kyesih} pottii jieht.
 Tast {ij}£{verb,sg3-pl3|iä} lah {elleid}£{noun,placc-plnom|elleeh}.
 Must {ij}£{verb,sg3-pl3|iä} lah skipáreh. 
-Must lii£{verb,sg3-pl3|láá} {pennuid}£{noun,placc-plnom|pennuuh}.
-Must ij{iä} lah {pennuid}£{noun,placc-plnom|pennuuh}.
+Must {lii}£{verb,sg3-pl3|láá} {pennuid}£{noun,placc-plnom|pennuuh}.
+Must {ij}£{verb,sg3-pl3|iä} lah {pennuid}£{noun,placc-plnom|pennuuh}.
 Rune paaldâst lâi {maidnii}£{pron,sgacc-sgnom|miinii}.
 Tääsnist {lâi}£{verb,sg3-pl3|lijjii} ruánáá čalmeh.
 Mist láá eenâb-uv {tábáhtusâid}£{noun,placc-plnom|tábáhtuseh}.
