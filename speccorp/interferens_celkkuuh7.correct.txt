@@ -6,7 +6,7 @@ Taan uásist {ij}£{verb,sg3-pl3|iä} lah pennui noomah.
 Mun halijdâm, ete maailmist {ij}£{verb,sg3-pl3|iä} liččii innig kuássin suáđih.
 Mist {ij}£{verb,sg3-pl3|iä} lah nuuvt ennuv uđđâ {uáppeid}£{noun,placc-plnom|uáppeeh}.
 {Ij}£{verb,sg3-pl3|Iä} lah innig ennuv {koronaraijiittâsâid}£{noun,placc-plnom|koronaraijiittâsah}.
-Eres {škoovlâid}{noun,placc-plnom|škoovlah} iä talle lamaš.
+Eres {škoovlâid}£{noun,placc-plnom|škoovlah} iä talle lamaš.
 Tutkâmušâst {lii}£{verb,sg3-pl3|láá} uáli ennuv čuujootmeh.
 Suoi keejáin tuše lättei nuuvt ko tobbeen {liččii}£{verb,pl3-sg3|ličij} miinii mielâttes mielâkiddiivijd
 Sii ohtsâšpargoost {šoodâi}£{verb,sg3-pl3|šoddii} kulmâ album.
