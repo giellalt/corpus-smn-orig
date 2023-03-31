@@ -53,7 +53,7 @@ Taggaar ellee lii kodde, mii lii eres {šlaajâid}£{noun,placc–sgnom|šlaajâ
 Jeggijuuŋáin tálhudii, jis lijjii vielgis {tiälhuid}£{noun,placc–plnom|tiälhuh} njäälmist.
 Ton muorâ keejist lijjii vittâ {rieggeeh}£{noun,plnom-sgacc|rieggee} já tekstâ: Olympia.
 {Anarâškielâlijd}£{adj,placc-plnom|Anarâškielâliih} {nomâttâsâid}£{noun,placc-plnom|nomâttâsah} {kiävttoo}£{verb,sg3-pl3|kiävttojeh} uáli uccáá.
-Jyehi kulttuurist {adeluvvoo£}£{verb,sg3-pl3|adeluvvojeh} {noomâid}£{noun,placc-plnom|noomah} {elleešlaajâid}£{ noun,placc-plill|elleešlaajáid}.
+Jyehi kulttuurist {adeluvvoo}£{verb,sg3-pl3|adeluvvojeh} {noomâid}£{noun,placc-plnom|noomah} {elleešlaajâid}£{ noun,placc-plill|elleešlaajáid}.
 Tágáreh sánáduv siskáldâs {merhâšumekoskâvuođâid}£{noun,placc-plnom|merhâšumekoskâvuođah} {kovvejuvvoo}£{verb,sg3-pl3|kovvejuvvojeh} maaŋgânáál. 
 Muu amnâstuvâst {kavnui}£{verb,sg3-pl3|kávnojii} meid {kuulmâsánásijd}£{adj,placc-plnom|kuulmâsánásiih} {kuálussaanijd}£{noun,placc-plnom|kuálussäänih}.
 Vuosmuu tiijpâ {kuálussaanijd}£{noun,placc-plnom|kuálussäänih} {kočoduvvoo}£{ verb,sg3-pl3|kočoduvvojeh} kopulatiivin. 
