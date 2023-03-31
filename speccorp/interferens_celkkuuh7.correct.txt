@@ -16,7 +16,7 @@ Mij nuurrâp siämmáámuđusijd {sierah}£{noun,plnom-placc|sierâid} oovtâ sa
 Mun finnejim {čurmâdâttâmkistuuh}£{noun,plnom-placc|čurmâdâttâmkistuid}, Puošši eeđâi.
 Ulmen lii nuurrâđ {nomâttâsah}£{noun,placc-plnom|nomâttâsâid} oovtâ sajan.
 Ij lah ain čielgâs, maht valdâličij {toh}£{pron,plnom-placc|taid} {ääših}£{{noun,plnom-placc|aašijd}, moh kuuvijn uáinojeh.
-Puohah iberdeh {toh}£{pron,plnom-placc|taid} {säänih}£{noun,plnom-placc|{saanijd} suullân siämmáánáál.
+Puohah iberdeh {toh}£{pron,plnom-placc|taid} {säänih}£{noun,plnom-placc|saanijd} suullân siämmáánáál.
 {Iäruh}£{noun,plnom-placc|Iäruid} puáhtá čielgiđ uásild kulttuurlâš tuáváá peht.
 Ulmuuh tobdeh {rääsih}£{noun,plnom-placc|raasijd} ovdâmerkkân ivneest.
 Tun kuittâg muštáh {jieijâs}£{pron-3-2|jieijâd} {poccuuh}£{noun,plnom-placc|poccuid}.
@@ -46,8 +46,8 @@ Ij maiden muide ko {tonttupihtâsijd}£{noun,placc-plnom|tonttupihtâseh} pajal�
 Mij koolgâim kárvudâttâđ haalarijd, {moh}£{pron,plnom-placc|maid} toontuh lijjii puáhtám.
 Ton šlaajân {lii}£{verb,sg3pl3|láá} anarâškielâst monnii suujâst ennuv {nomâttâsâid}£{noun,placc-plnom|nomâttâsah}.
 Kuálussääni uásih láá távjá ovtâskâs {lekseemijd}£{noun,placc–plnom|lekseemeh}.
-Säänih pyehtih leđe uáivimerhâšuumij tááhust{siämmáálágánijd}£{adj,placc–plnom|siämmáálágáneh}.
-Synonymiast lii {lii}£{verb,sg3pl3|láá} tiätu{fáddápirrâsijd}£{noun,placc–plnom|fáddápirrâseh}, moi{synonyymijd}£{noun,placc–plnom|synonyymeh} šaddeh eromâš ennuv.
+Säänih pyehtih leđe uáivimerhâšuumij tááhust {siämmáálágánijd}£{adj,placc–plnom|siämmáálágáneh}.
+Synonymiast lii {lii}£{verb,sg3pl3|láá} tiätu {fáddápirrâsijd}£{noun,placc–plnom|fáddápirrâseh}, moi {synonyymijd}£{noun,placc–plnom|synonyymeh} šaddeh eromâš ennuv.
 Koddeest ij lah kuássin {peljimeerhâ}£{noun,sgacc–sgnom|peljimerkkâ}.
 Taggaar ellee lii kodde, mii lii eres {šlaajâid}£{noun,placc–sgnom|šlaajâ} ko puásui.
 Jeggijuuŋáin tálhudii, jis lijjii vielgis {tiälhuid}£{noun,placc–plnom|tiälhuh} njäälmist.
@@ -60,7 +60,7 @@ Vuosmuu tiijpâ {kuálussaanijd}£{noun,placc-plnom|kuálussäänih} {kočoduvvo
 {Uánádâsâid}£{noun,placc-plnom|Uánádâsah}, {numerijd}£{noun,placc-plnom|numereh}, {jiešnoomâid}£{noun,placc-plnom|jiešnoomah} já ovtâskâs {puustavijd}£{noun,placc-plnom|puustaveh} kuálussääni uássin iäruttuvvojeh čälimist kuálusmerháin.
 Puáris kielâin {kávnoo}£{verb,sg3-pl3|kávnojeh} {kirjálijd}£{adj,placc-plnom|kirjáliih} {pyevtittâsâid}£{noun,placc-plnom|pyevtittâsah}.
 Toorjân {lii}£{verb,sg3-pl3|láá} rahtum {substituutionjuolgâdusâid}£{noun,placc-plnom|substituutionjuolgâdusah}. 
-Nomâttâsân {kavnui}£{verb,sg3-pl3|kávnojii} meid {motomijd}£{ pron,placc-plnom|motomeh} {metaforaid}£{ noun,placc-plnom|metaforah}.
+Nomâttâsân {kavnui}£{verb,sg3-pl3|kávnojii} meid {motomijd}£{pron,placc-plnom|motomeh} {metaforaid}£{noun,placc-plnom|metaforah}.
 Juŋŋâlostâteejâin {tipšui}£{verb,sg3-pl3|tipšojii} {kužžâpocceevááduid}£{noun,placc-plnom|kužžâpocceevááduh} já {kudduumijd}£{noun,placc-plnom|kudduumeh}.
 {Áálduid}£{noun,placc-plnom|Áálduh} sirdojii kuohtii peeivist. 
 Vuonjâlave maŋa ij innig iäruttuu niŋálâs {poccuid}£{noun,placc-plnom|poccuuh} ave tááhust. 
