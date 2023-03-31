@@ -47,7 +47,7 @@ Mij koolgâim kárvudâttâđ haalarijd, {moh}£{pron,plnom-placc|maid} toontuh 
 Ton šlaajân {lii}£{verb,sg3pl3|láá} anarâškielâst monnii suujâst ennuv {nomâttâsâid}£{noun,placc-plnom|nomâttâsah}.
 Kuálussääni uásih láá távjá ovtâskâs {lekseemijd}£{noun,placc–plnom|lekseemeh}.
 Säänih pyehtih leđe uáivimerhâšuumij tááhust {siämmáálágánijd}£{adj,placc–plnom|siämmáálágáneh}.
-Synonymiast lii {lii}£{verb,sg3pl3|láá} tiätu {fáddápirrâsijd}£{noun,placc–plnom|fáddápirrâseh}, moi {synonyymijd}£{noun,placc–plnom|synonyymeh} šaddeh eromâš ennuv.
+Synonymiast {lii}£{verb,sg3pl3|láá} tiätu {fáddápirrâsijd}£{noun,placc–plnom|fáddápirrâseh}, moi {synonymijd}£{noun,placc–plnom|synonymeh} šaddeh eromâš ennuv.
 Koddeest ij lah kuássin {peljimeerhâ}£{noun,sgacc–sgnom|peljimerkkâ}.
 Taggaar ellee lii kodde, mii lii eres {šlaajâid}£{noun,placc–sgnom|šlaajâ} ko puásui.
 Jeggijuuŋáin tálhudii, jis lijjii vielgis {tiälhuid}£{noun,placc–plnom|tiälhuh} njäälmist.
