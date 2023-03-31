@@ -1,81 +1,157 @@
 Ton juávkun kuleh {puohlágánijd}£{adj,placc-sgnom|puohlágán} {iälánijd}£{noun,placc-plnom|iäláneh}.
+
 Ellein {lii}£{verb,sg3-pl3|láá} noonâ teehih.
+
 Tääbbin {lii}£{verb,sg3-pl3|láá} ennuv {ulmuid}£{noun,placc-plnom|ulmuuh}.
+
 Mut maid mij pyehtip faallâđ toid, lii pyeri eellim, {mielâsijd}£{adj,placc-plnom|mielâsiih} {puuđâldmijd}£{noun,placc-plnom|puuđâldmeh}, {skipárijd}£{noun,placc-plnom|skipáreh} já ruottâmtile.
+
 Taan uásist {ij}£{verb,sg3-pl3|iä} lah pennui noomah.
+
 Mun halijdâm, ete maailmist {ij}£{verb,sg3-pl3|iä} liččii innig kuássin suáđih.
+
 Mist {ij}£{verb,sg3-pl3|iä} lah nuuvt ennuv uđđâ {uáppeid}£{noun,placc-plnom|uáppeeh}.
+
 {Ij}£{verb,sg3-pl3|Iä} lah innig ennuv {koronaraijiittâsâid}£{noun,placc-plnom|koronaraijiittâsah}.
+
 Eres {škoovlâid}£{noun,placc-plnom|škoovlah} iä talle lamaš.
+
 Tutkâmušâst {lii}£{verb,sg3-pl3|láá} uáli ennuv čuujootmeh.
+
 Suoi keejáin tuše lättei nuuvt ko tobbeen {liččii}£{verb,pl3-sg3|ličij} miinii mielâttes mielâkiddiivijd
+
 Sii ohtsâšpargoost {šoodâi}£{verb,sg3-pl3|šoddii} kulmâ album.
+
 Sun maatij čielgiđ {ääših}£{noun,plnom-placc|aašijd} iberdettee vuovvijn.
+
 Viežâh-uv tun {párnááh}£{noun,plnom-placc|párnáid} onne?
+
 Mij nuurrâp siämmáámuđusijd {sierah}£{noun,plnom-placc|sierâid} oovtâ sajan.
+
 Mun finnejim {čurmâdâttâmkistuuh}£{noun,plnom-placc|čurmâdâttâmkistuid}, Puošši eeđâi.
+
 Ulmen lii nuurrâđ {nomâttâsah}£{noun,placc-plnom|nomâttâsâid} oovtâ sajan.
+
 Ij lah ain čielgâs, maht valdâličij {toh}£{pron,plnom-placc|taid} {ääših}£{{noun,plnom-placc|aašijd}, moh kuuvijn uáinojeh.
+
 Puohah iberdeh {toh}£{pron,plnom-placc|taid} {säänih}£{noun,plnom-placc|saanijd} suullân siämmáánáál.
+
 {Iäruh}£{noun,plnom-placc|Iäruid} puáhtá čielgiđ uásild kulttuurlâš tuáváá peht.
+
 Ulmuuh tobdeh {rääsih}£{noun,plnom-placc|raasijd} ovdâmerkkân ivneest.
+
 Tun kuittâg muštáh {jieijâs}£{pron-3-2|jieijâd} {poccuuh}£{noun,plnom-placc|poccuid}.
+
 Aanaar kieldâ uážui jieijâs {raavânjuolgâdusah}£{noun,plnom-placc|raavânjuolgâdusâid} ive 1901.
+
 Talle sun puovtij tuálvuđ {pennuuh}£{noun,plnom-placc|pennuid} siisâ.
+
 Puásuialmaah luoštii {pennuuh}£{noun,plnom-placc|pennuid} luovâs.
+
 Táluliih jiejah poččii jieijâs {kuusah}£{noun,plnom-placc|kuusâid}.
+
 Apteekist finnee {talkkâseh}£{noun,plnom-placc|talkkâsijd} tállân fáárun.
+
 Ovdilgo nurâškuát kuobbârijd puurrâm várás, kalga tubdâđ {šlaajah}£{noun,plnom-placc|šlaajâid} pyereest.
+
 Mun pieijâm {toh}£{pron,plnom-placc|taid} teehin.
+
 Lam merkkim taas puoh {ääših}£{noun,plnom-placc|aašijd}.
+
 Máttáátteijee čielgij mijjân, maht {čuoigâmkammuuh}£{noun,plnom-placc|čuoigâmkammuid} koolgâi kiddiđ saveháid.
+
 Rievvejeen {paŋkki}£{noun,sgnom-sgacc|paaŋki}, máttáátteijee iävtuttij.
+
 Sun lâi vaalmâš uhrediđ sehe jieijâs ete párnáidis {juovlâläähjih}£{noun,plnom-placc|juovlâlaahjijd}, ete puávtáččij piäluštiđ mii.
+
 Talle {oppâkirjeh}£{noun,plnom-placc|oppâkiirjijd} koolgâi jurgâliđ suomâkielâst sämikielân.
+
 Tun lah váldám čielgâ {čäällimfeeilah}£{noun,plnom-placc|čäällimfeeilâid} teevstâst meddâl.
+
 Nubeh tobdeh {kuobbâreh}£{noun,plnom-placc|kuobbârijd} ivneest.
+
 Kieldâ uážui {njuolgâdusah}£{noun,plnom-placc|njuolgâdusâid} valmâšin.
+
 Mun liijká ostim uđđâ {kammuuh}£{noun,plnom-placc|kammuid}.
+
 Puoh iä lah omâstâm {poccuuh}£{noun,plnom-placc|poccuid}.
+
 Puoh iä lah omâstâm tuše {poccuuh}£{noun,plnom-placc|poccuid}.
+
 Omâsteijeeh valdii kárgám {pennuuh}£{noun,plnom-placc|pennuid} kiddâ.
+
 Koijâdim maŋgii {magarijd}£{quest,placc-plnom|magareh} {negatiivlijd}£{adj,placc-plnom|negatiivliih} {aašijd}£{noun,placc-plnom|ääših} nubben kiellân sárnumân {lahtoo}£{verb,sg3-pl3|lahtojeh}.
+
 Mun jiem mušte innig puoh {ääših}£{noun,plnom-placc|aašijd}.
+
 Ain puoh kuálásteijeeh iä omâstâm tuše {kárbáh}£{noun,plnom-placc|kárbáid} mut eenâb-uv.
+
 Ij maiden muide ko {tonttupihtâsijd}£{noun,placc-plnom|tonttupihtâseh} pajalân já sierâdiđ riäggás, Hanna-uv šuáhkádij.
+
 Mij koolgâim kárvudâttâđ haalarijd, {moh}£{pron,plnom-placc|maid} toontuh lijjii puáhtám.
+
 Ton šlaajân {lii}£{verb,sg3pl3|láá} anarâškielâst monnii suujâst ennuv {nomâttâsâid}£{noun,placc-plnom|nomâttâsah}.
+
 Kuálussääni uásih láá távjá ovtâskâs {lekseemijd}£{noun,placc–plnom|lekseemeh}.
+
 Säänih pyehtih leđe uáivimerhâšuumij tááhust {siämmáálágánijd}£{adj,placc–plnom|siämmáálágáneh}.
+
 Synonymiast {lii}£{verb,sg3pl3|láá} tiätu {fáddápirrâsijd}£{noun,placc–plnom|fáddápirrâseh}, moi {synonymijd}£{noun,placc–plnom|synonymeh} šaddeh eromâš ennuv.
+
 Koddeest ij lah kuássin {peljimeerhâ}£{noun,sgacc–sgnom|peljimerkkâ}.
+
 Taggaar ellee lii kodde, mii lii eres {šlaajâid}£{noun,placc–sgnom|šlaajâ} ko puásui.
+
 Jeggijuuŋáin tálhudii, jis lijjii vielgis {tiälhuid}£{noun,placc–plnom|tiälhuh} njäälmist.
+
 Ton muorâ keejist lijjii vittâ {rieggeeh}£{noun,plnom-sgacc|rieggee} já tekstâ: Olympia.
+
 {Anarâškielâlijd}£{adj,placc-plnom|Anarâškielâliih} {nomâttâsâid}£{noun,placc-plnom|nomâttâsah} {kiävttoo}£{verb,sg3-pl3|kiävttojeh} uáli uccáá.
+
 Jyehi kulttuurist {adeluvvoo}£{verb,sg3-pl3|adeluvvojeh} {noomâid}£{noun,placc-plnom|noomah} {elleešlaajâid}£{ noun,placc-plill|elleešlaajáid}.
-Tágáreh sánáduv siskáldâs {merhâšumekoskâvuođâid}£{noun,placc-plnom|merhâšumekoskâvuođah} {kovvejuvvoo}£{verb,sg3-pl3|kovvejuvvojeh} maaŋgânáál. 
+
+Tágáreh sánáduv siskáldâs {merhâšumekoskâvuođâid}£{noun,placc-plnom|merhâšumekoskâvuođah} {kovvejuvvoo}£{verb,sg3-pl3|kovvejuvvojeh} maaŋgânáál.
+
 Muu amnâstuvâst {kavnui}£{verb,sg3-pl3|kávnojii} meid {kuulmâsánásijd}£{adj,placc-plnom|kuulmâsánásiih} {kuálussaanijd}£{noun,placc-plnom|kuálussäänih}.
-Vuosmuu tiijpâ {kuálussaanijd}£{noun,placc-plnom|kuálussäänih} {kočoduvvoo}£{ verb,sg3-pl3|kočoduvvojeh} kopulatiivin. 
+
+Vuosmuu tiijpâ {kuálussaanijd}£{noun,placc-plnom|kuálussäänih} {kočoduvvoo}£{ verb,sg3-pl3|kočoduvvojeh} kopulatiivin.
+
 {Uánádâsâid}£{noun,placc-plnom|Uánádâsah}, {numerijd}£{noun,placc-plnom|numereh}, {jiešnoomâid}£{noun,placc-plnom|jiešnoomah} já ovtâskâs {puustavijd}£{noun,placc-plnom|puustaveh} kuálussääni uássin iäruttuvvojeh čälimist kuálusmerháin.
+
 Puáris kielâin {kávnoo}£{verb,sg3-pl3|kávnojeh} {kirjálijd}£{adj,placc-plnom|kirjáliih} {pyevtittâsâid}£{noun,placc-plnom|pyevtittâsah}.
-Toorjân {lii}£{verb,sg3-pl3|láá} rahtum {substituutionjuolgâdusâid}£{noun,placc-plnom|substituutionjuolgâdusah}. 
+
+Toorjân {lii}£{verb,sg3-pl3|láá} rahtum {substituutionjuolgâdusâid}£{noun,placc-plnom|substituutionjuolgâdusah}.
+
 Nomâttâsân {kavnui}£{verb,sg3-pl3|kávnojii} meid {motomijd}£{pron,placc-plnom|motomeh} {metaforaid}£{noun,placc-plnom|metaforah}.
+
 Juŋŋâlostâteejâin {tipšui}£{verb,sg3-pl3|tipšojii} {kužžâpocceevááduid}£{noun,placc-plnom|kužžâpocceevááduh} já {kudduumijd}£{noun,placc-plnom|kudduumeh}.
-{Áálduid}£{noun,placc-plnom|Áálduh} sirdojii kuohtii peeivist. 
-Vuonjâlave maŋa ij innig iäruttuu niŋálâs {poccuid}£{noun,placc-plnom|poccuuh} ave tááhust. 
+
+{Áálduid}£{noun,placc-plnom|Áálduh} sirdojii kuohtii peeivist.
+
+Vuonjâlave maŋa ij innig iäruttuu niŋálâs {poccuid}£{noun,placc-plnom|poccuuh} ave tááhust.
+
 Válburpeeivi maŋa kyeddimääigi {áálduid}£{noun,placc-plnom|áálduh} oppeet {čonnui}£{verb,sg3-pl3|čannojii}.
-Tot lii pyeri, {ijge}£{verb,sg3-pl3|iäge} {vástádâsâid}£{noun,placc-plnom|vástádâsah} lah čonnum {vástádâsmuulsâiävtuid}£{noun,placc-plill|vástádâsmuulsâiävttoid}. 
+
+Tot lii pyeri, {ijge}£{verb,sg3-pl3|iäge} {vástádâsâid}£{noun,placc-plnom|vástádâsah} lah čonnum {vástádâsmuulsâiävtuid}£{noun,placc-plill|vástádâsmuulsâiävttoid}.
+
 {Maaŋgâid}£{Num,placc-plnom|Maaŋgah} {vaaivijd}£{noun,placc-plnom|vääivih} {tipšui}£{verb,sg3-pl3|tipšojii} vuoššum suáhilostâiguim.
+
 Säänist {kávnoo}£{verb,sg3-pl3|kávnojeh} {tiäđuid}£{noun,placc-plnom|tiäđuh} etymologisijn käldein.
-Aanaarjäävri kuálástemtiäđuid {ij}£{verb,sg3-pl3|iä} kavnuu kirjálâšvuođâst. 
+
+Aanaarjäävri kuálástemtiäđuid {ij}£{verb,sg3-pl3|iä} kavnuu kirjálâšvuođâst.
+
 {Kuosijd}£{noun,placc-plnom|Kyesih} pottii jieht.
+
 Tast {ij}£{verb,sg3-pl3|iä} lah {elleid}£{noun,placc-plnom|elleeh}.
-Must {ij}£{verb,sg3-pl3|iä} lah skipáreh. 
+
+Must {ij}£{verb,sg3-pl3|iä} lah skipáreh.
+
 Must {lii}£{verb,sg3-pl3|láá} {pennuid}£{noun,placc-plnom|pennuuh}.
+
 Must {ij}£{verb,sg3-pl3|iä} lah {pennuid}£{noun,placc-plnom|pennuuh}.
+
 Rune paaldâst lâi {maidnii}£{pron,sgacc-sgnom|miinii}.
+
 Tääsnist {lâi}£{verb,sg3-pl3|lijjii} ruánáá čalmeh.
+
 Mist láá eenâb-uv {tábáhtusâid}£{noun,placc-plnom|tábáhtuseh}.
-
-
