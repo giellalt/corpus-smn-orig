@@ -13,13 +13,13 @@
     -->
     <xsl:variable name="filename" select="'Porkkan_väljejum_ive_2023_ruonâsin.docx'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Porkkan väljejum ive 2023 ruonâsin'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.
     -->
-    <xsl:variable name="author1_fn" select="''"/>
-    <xsl:variable name="author1_ln" select="''"/>
+    <xsl:variable name="author1_fn" select="'Marja-Liisa'"/>
+    <xsl:variable name="author1_ln" select="'Olthuis'"/>
     <!-- m, f or unknown -->
     <xsl:variable name="author1_gender" select="'unknown'"/>
     <!--
@@ -74,7 +74,7 @@
     <!-- The values are either: published or unpublished -->
     <xsl:variable name="publChannel" select="''"/>
     <!-- Publication year -->
-    <xsl:variable name="year" select="''"/>
+    <xsl:variable name="year" select="'2023'"/>
     <xsl:variable name="ISBN" select="''"/>
     <xsl:variable name="ISSN" select="''"/>
     <xsl:variable name="place" select="''"/>
