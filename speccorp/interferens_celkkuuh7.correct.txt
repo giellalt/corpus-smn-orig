@@ -32,7 +32,7 @@ Mun finnejim {čurmâdâttâmkistuuh}£{noun,plnom-placc|čurmâdâttâmkistuid}
 
 Ulmen lii nuurrâđ {nomâttâsah}£{noun,placc-plnom|nomâttâsâid} oovtâ sajan.
 
-Ij lah ain čielgâs, maht valdâličij {toh}£{pron,plnom-placc|taid} {ääših}£{{noun,plnom-placc|aašijd}, moh kuuvijn uáinojeh.
+Ij lah ain čielgâs, maht valdâličij {toh}£{pron,plnom-placc|taid} {ääših}£{noun,plnom-placc|aašijd}, moh kuuvijn uáinojeh.
 
 Puohah iberdeh {toh}£{pron,plnom-placc|taid} {säänih}£{noun,plnom-placc|saanijd} suullân siämmáánáál.
 
