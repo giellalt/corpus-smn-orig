@@ -308,7 +308,7 @@
         Quote from the pdftohtml help:
         -wbt <fp> : word break threshold (default 10 percent)
     -->
-    <xsl:variable name="word_break_threshold" select="'10'"/>
+    <xsl:variable name="word_break_threshold" select="'2'"/>
 
     <!--
         This variable is meant for pdf files, but not in use.
