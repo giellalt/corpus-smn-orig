@@ -90,7 +90,7 @@
          letters, the command "ccat -l sme -o names" (etc.) will give the available 
          orthograpies. Example names: bergslandruong, friis, itkonen, leem, ...
     -->
-     <xsl:variable name="orthography" select="''"/> 
+     <xsl:variable name="orthography" select="'lonnrot'"/> 
     
 
     <!-- Free form tags to describe the document -->
@@ -307,7 +307,7 @@
         Quote from the pdftohtml help:
         -wbt <fp> : word break threshold (default 10 percent)
     -->
-    <xsl:variable name="word_break_threshold" select="'10'"/>
+    <xsl:variable name="word_break_threshold" select="'2'"/>
 
     <!--
         This variable is meant for pdf files, but not in use.
